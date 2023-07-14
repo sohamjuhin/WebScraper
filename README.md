@@ -5,6 +5,9 @@ To run this script on Kali Linux, you need to have the requests and beautifulsou
 
 
 pip install requests
+
+
+
 pip install beautifulsoup4
 
 
