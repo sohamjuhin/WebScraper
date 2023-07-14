@@ -14,7 +14,7 @@ pip install beautifulsoup4
 # Save the script to a file, such as website_scraper.py, and then run the script using the following command:
 
 
-python3 website_scraper.py
+python3 WebScraper.py
 
 
 Replace http://example.com with the URL of the website you want to scrape. The script uses requests to retrieve the HTML content of the website and BeautifulSoup to parse and extract information from the HTML.
